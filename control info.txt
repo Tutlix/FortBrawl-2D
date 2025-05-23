@@ -1,0 +1,25 @@
+Player Controls for FortBrawl 2D (v0.0.5)
+Singleplayer Controls (Player 1)
+
+Move Left: Left Arrow
+
+Move Right: Right Arrow
+
+Attack: Spacebar
+
+Multiplayer Controls (Local)
+Player 1:
+
+Move Left: Left Arrow
+
+Move Right: Right Arrow
+
+Attack: Spacebar
+
+Player 2:
+
+Move Left: A
+
+Move Right: D
+
+Attack: W
